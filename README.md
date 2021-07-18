@@ -7,7 +7,7 @@ Uma fonte simples de uso livre com temática de escrita manual
 
 # Exemplos
 
-Soneto Número 5 - shakespeare
+Soneto Número 5 - Shakespeare
 
 ![Soneto Número 5 - shakespeare](/demo/sonnet_V.svg)
 
