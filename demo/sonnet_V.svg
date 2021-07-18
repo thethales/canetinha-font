@@ -1,26 +1,58 @@
-<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1640 585" width="1640" height="585">
-	<title>Novo Projeto</title>
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1223 856" width="1223" height="856">
+	<title>Sonnet V-svg</title>
 	<defs>
-		<image  width="1640" height="856" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABmgAAANYAQMAAAD69fCRAAAAAXNSR0IB2cksfwAAAANQTFRF////p8QbyAAAAMJJREFUeJztwTEBAAAAwqD1T20MH6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAICXAbDuAAEreKvQAAAAAElFTkSuQmCC"/>
+		<image width="1640" height="856" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABmgAAANYAQMAAAD69fCRAAAAAXNSR0IB2cksfwAAAANQTFRF////p8QbyAAAAMJJREFUeJztwTEBAAAAwqD1T20MH6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAICXAbDuAAEreKvQAAAAAElFTkSuQmCC"/>
 	</defs>
 	<style>
 		tspan { white-space:pre }
 		.txt0 { font-size: 24px;fill: #000000;font-weight: 400;font-family: "canetinha", "canetinha" } 
 	</style>
-	<use id="Background" href="#img1" x="0" y="-64" />
-	<text id="a b c d e f g h i j k l m n o p " style="transform: matrix(3.253,0,0,3.253,48.747,348.798)" >
-		<tspan x="0" y="0" class="txt0">a b c d e f g h i j k l m n o p q r s t u v w x y z</tspan>
-	</text>
-	<text id="0 1 2 3 4 5 6 7 8 9 " style="transform: matrix(3.253,0,0,3.253,50.747,437.798)" >
-		<tspan x="0" y="0" class="txt0">0 1 2 3 4 5 6 7 8 9</tspan>
-	</text>
-	<text id="# @ ! -" style="transform: matrix(3.253,0,0,3.253,47.747,515.798)" class=" : ; ?  " >
-		<tspan x="0" y="0" class="txt0"># @ ! - . : ; ? </tspan>
-	</text>
-	<text id="Canetinha " style="transform: matrix(6.957,0,0,6.957,31.043,140.599)" >
-		<tspan x="0" y="0" class="txt0">Canetinha</tspan>
-	</text>
-	<text id="A B C D E F G H I J K L M N O P " style="transform: matrix(3.194,0,0,3.194,48.806,260.911)" >
-		<tspan x="0" y="0" class="txt0">A B C D E F G H I J K L M N O P Q R S T U V W X Y Z</tspan>
-	</text>
+	<use id="img1" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
+	<g id="Sonnet V Those hours, that with ">
+		<text id="Sonnet V" style="transform: matrix(1.841,0,0,1.843,53.735,65.602)" >
+			<tspan x="0" y="0" class="txt0">Sonnet V</tspan>
+		</text>
+		<text id="Those hours, that with gentle work did frame" style="transform: matrix(1.841,0,0,1.843,53.735,115.142)" >
+			<tspan x="0" y="0" class="txt0">Those hours, that with gentle work did frame</tspan>
+		</text>
+		<text id="The lovely gaze where every eye doth dwell," style="transform: matrix(1.841,0,0,1.843,53.735,164.682)" >
+			<tspan x="0" y="0" class="txt0">The lovely gaze where every eye doth dwell,</tspan>
+		</text>
+		<text id="Will play the tyrants to the very same" style="transform: matrix(1.841,0,0,1.843,53.735,214.222)" >
+			<tspan x="0" y="0" class="txt0">Will play the tyrants to the very same</tspan>
+		</text>
+		<text id="And that unfair which fairly doth excel;" style="transform: matrix(1.841,0,0,1.843,53.735,263.761)" >
+			<tspan x="0" y="0" class="txt0">And that unfair which fairly doth excel;</tspan>
+		</text>
+		<text id="For never-resting time leads summer on" style="transform: matrix(1.841,0,0,1.843,53.735,313.301)" >
+			<tspan x="0" y="0" class="txt0">For never-resting time leads summer on</tspan>
+		</text>
+		<text id="To hideous winter, and confounds him there;" style="transform: matrix(1.841,0,0,1.843,53.735,362.841)" >
+			<tspan x="0" y="0" class="txt0">To hideous winter, and confounds him there;</tspan>
+		</text>
+		<text id="Sap checked with frost, and lusty leaves quite gone," style="transform: matrix(1.841,0,0,1.843,53.735,412.381)" >
+			<tspan x="0" y="0" class="txt0">Sap checked with frost, and lusty leaves quite gone,</tspan>
+		</text>
+		<text id="Beauty o'er-snowed and bareness every where:" style="transform: matrix(1.841,0,0,1.843,53.735,461.921)" >
+			<tspan x="0" y="0" class="txt0">Beauty o'er-snowed and bareness every where:</tspan>
+		</text>
+		<text id="Then were not summer's distillation left," style="transform: matrix(1.841,0,0,1.843,53.735,511.461)" >
+			<tspan x="0" y="0" class="txt0">Then were not summer's distillation left,</tspan>
+		</text>
+		<text id="A liquid prisoner pent in walls of glass," style="transform: matrix(1.841,0,0,1.843,53.735,561)" >
+			<tspan x="0" y="0" class="txt0">A liquid prisoner pent in walls of glass,</tspan>
+		</text>
+		<text id="Beauty's effect with beauty were bereft," style="transform: matrix(1.841,0,0,1.843,53.735,610.54)" >
+			<tspan x="0" y="0" class="txt0">Beauty's effect with beauty were bereft,</tspan>
+		</text>
+		<text id="Nor it, nor no remembrance what it was:" style="transform: matrix(1.841,0,0,1.843,53.735,660.08)" >
+			<tspan x="0" y="0" class="txt0">Nor it, nor no remembrance what it was:</tspan>
+		</text>
+		<text id="   But flowers distilled, though they with winter meet," style="transform: matrix(1.841,0,0,1.843,53.735,709.62)" >
+			<tspan x="0" y="0" class="txt0">   But flowers distilled, though they with winter meet,</tspan>
+		</text>
+		<text id="   Leese but their show; their substance still lives sweet." style="transform: matrix(1.841,0,0,1.843,53.735,759.16)" >
+			<tspan x="0" y="0" class="txt0">   Leese but their show; their substance still lives sweet.</tspan>
+		</text>
+	</g>
 </svg>
